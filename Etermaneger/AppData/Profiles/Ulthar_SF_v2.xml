@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ulthar_SF_v2</Name>
+  <WorkingDirectory>E:\forrasok\ulthar_SF_V2\Client\pack\</WorkingDirectory>
+  <UnpackDirectory>E:\forrasok\ulthar_SF_V2\Client\pack\</UnpackDirectory>
+  <IndexKey>uZ6wAm9pgQVjmJsoeRgaAA==</IndexKey>
+  <PackKey>Iri0BGSybh+u6hgApvb7HA==</PackKey>
+  <IndexExtension>.eix</IndexExtension>
+  <PackExtension>.epk</PackExtension>
+  <IsDefault>true</IsDefault>
+</ClientProfile>
