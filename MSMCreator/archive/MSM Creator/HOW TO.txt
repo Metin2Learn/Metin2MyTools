@@ -1,0 +1,22 @@
+1. Edit Group
+- Select "Edit Group"
+- Select "Hair Data" or "Shape Data" in the Dropdown
+- Select your msm file you wanna edit
+- Press "Init"
+- Select your Group you want to Edit in the list
+- Edit Model Name or Group ID
+- Select SourceSkin or TargetSkin you want to change in the 2nd list
+- Edit SourceSkin or TargetSkin
+- Press "Edit"
+
+2. Add Group
+- Select "Add Group"
+- Select "Hair Data" or "Shape Data" in the Dropdown
+- Select your msm file you wanna edit
+- Press "Init"
+- Drag & Drop your .gr2 file into "Model"
+- Drag & Drop your .dds/.tga file into "SourceSkin" or "TargetSkin"
+- Press "Add"
+- Press "Save Group"
+
+To edit a 2nd file just close the window and reopen it (will be changed soon)
